@@ -134,3 +134,6 @@ a 400%
 b 40%
 c 4%
 d 0,4%
+
+
+Nota: Para acessar as respostas, abrir o .pdf
